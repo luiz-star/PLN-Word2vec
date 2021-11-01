@@ -1,6 +1,8 @@
 # PLN-Word2vec
 Estudo de Caso - Previsão de Palavras com Base no Contexto e Visualização com PCA
 
+![nuvem_palavras](https://user-images.githubusercontent.com/72530507/139607686-c3121831-dec8-4dff-aeca-51ed93cd5d82.png)
+
 
 Teste do Modelo e Redução de Dimensionalidade com PCA
 
